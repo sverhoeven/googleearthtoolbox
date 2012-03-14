@@ -25,12 +25,6 @@ Contents
     README.txt 		this file
     LICENSE.txt		Software license
     NOTES.txt		Notes, issues and known bugs
-    ruby/		Ruby version of toolbox
-    python/		Python version of toolbox
-    c/			C version of toolbox
-    c++/		C++ version of toolbox
-    java/		Java version of toolbox
-    octave/		Octave version of toolbox
     matlab/		Matlab version of toolbox
 
 Requirements
